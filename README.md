@@ -1,9 +1,9 @@
 ### Hi there I'm Drew👋
 ![GitHub followers](https://img.shields.io/github/followers/drewjknowles?label=Follow&style=social)
-[![Linkedin: Drew Knowles](https://img.shields.io/badge/-djknowles21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drew-knowles-376686155/)](https://www.linkedin.com/in/drew-knowles-376686155/)
+[![Linkedin: Drew Knowles](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drew-knowles-376686155/)](https://www.linkedin.com/in/drew-knowles-376686155/)
 
 
- - 📫 How to reach me: [knowlesjarrett1@gmail.com](mailto:knowlesjarrett1@gmail.com);
+ - 📫 How to reach me: [knowlesdrew@icloud.com](mailto:knowlesdrew@icloud.com);
  - 🔗 My website: [https://www.drewknowles.ca/](https://www.drewknowles.ca/)
 
 
