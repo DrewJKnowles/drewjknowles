@@ -9,12 +9,6 @@
 
 <hr></hr>
 <div align="left" >
-  
-<a  href="https://github.com/SP-XD">
-  
-[![Drew Knowles's github streak](https://github-readme-streak-stats.herokuapp.com/?user=djknowles21&theme=blue-green)](https://github.com/drewjknowles)
-
-</a>
 
 <hr></hr>
 <!--
